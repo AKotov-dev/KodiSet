@@ -1,0 +1,158 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8"
+
+#: tmainform.applybtn.caption
+msgid "Clear Thumbnails and Apply"
+msgstr ""
+
+#: tmainform.applybtn1.caption
+msgid "Apply YouTube Settings"
+msgstr ""
+
+#: tmainform.button1.caption
+msgctxt "tmainform.button1.caption"
+msgid "Default"
+msgstr ""
+
+#: tmainform.button2.caption
+msgctxt "tmainform.button2.caption"
+msgid "Default"
+msgstr ""
+
+#: tmainform.button3.caption
+msgctxt "tmainform.button3.caption"
+msgid "Paste"
+msgstr ""
+
+#: tmainform.button4.caption
+msgctxt "tmainform.button4.caption"
+msgid "Paste"
+msgstr ""
+
+#: tmainform.button5.caption
+msgctxt "tmainform.button5.caption"
+msgid "Paste"
+msgstr ""
+
+#: tmainform.button6.caption
+msgctxt "tmainform.button6.caption"
+msgid "X"
+msgstr ""
+
+#: tmainform.button7.caption
+msgctxt "tmainform.button7.caption"
+msgid "X"
+msgstr ""
+
+#: tmainform.button8.caption
+msgctxt "tmainform.button8.caption"
+msgid "X"
+msgstr ""
+
+#: tmainform.caption
+msgid "MainForm"
+msgstr ""
+
+#: tmainform.checkbox1.caption
+msgid "imageres"
+msgstr ""
+
+#: tmainform.checkbox2.caption
+msgid "fanartres"
+msgstr ""
+
+#: tmainform.checkbox5.caption
+msgid "Posters and fanarts like in Kodi <= v18"
+msgstr ""
+
+#: tmainform.checkbox6.caption
+msgid "Video Buffer = 1/3 RAM"
+msgstr ""
+
+#: tmainform.checkbox6.hint
+msgid "Default: 60MB"
+msgstr ""
+
+#: tmainform.deletebtn.hint
+msgid "Delete settings"
+msgstr ""
+
+#: tmainform.edit1.text
+msgid "720"
+msgstr ""
+
+#: tmainform.edit2.text
+msgid "1080"
+msgstr ""
+
+#: tmainform.label1.caption
+msgid "Label1"
+msgstr ""
+
+#: tmainform.label10.caption
+msgid "Label10"
+msgstr ""
+
+#: tmainform.label2.caption
+msgctxt "tmainform.label2.caption"
+msgid "New settings file:"
+msgstr ""
+
+#: tmainform.label3.caption
+msgid "api_key:"
+msgstr ""
+
+#: tmainform.label4.caption
+msgid "client_id:"
+msgstr ""
+
+#: tmainform.label5.caption
+msgid "client_secret:"
+msgstr ""
+
+#: tmainform.label6.caption
+msgid ""
+"YouTube can be found in the Official Kodi repository, see Installation for more information\n"
+"  \n"
+"Readme: https://github.com/anxdpanic/plugin.video.youtube/blob/master/README.md\n"
+"Source: https://github.com/anxdpanic/plugin.video.youtube/\n"
+"Issues: https://github.com/anxdpanic/plugin.video.youtube/issues"
+msgstr ""
+
+#: tmainform.label7.caption
+msgctxt "tmainform.label7.caption"
+msgid "New settings file:"
+msgstr ""
+
+#: tmainform.label8.caption
+msgid "1. Specify the maximum resolution that cached artwork (other than fanart / 16:9 images) should be resized to in pixels. The width is automatically calculated as being 16/9*height. The image will be resized to fit within this size. e.g. an image that is 2000x500 will be cached at size 1280x320. An image that is 500x800 will be cached at size 450x720 using the default value of 720."
+msgstr ""
+
+#: tmainform.label9.caption
+msgid "2. Specify the maximum resolution that cached fanart should be resized to in pixels. The width is automatically calculated as being 16/9*height. Only images that are exactly 16x9 and equal to or greater than this resolution will be cached at this size - all other images will be cached using <imageres>. The default value is 1080."
+msgstr ""
+
+#: tmainform.statictext1.caption
+msgid "License: GPLv3   Author: alex_q_2000 (C) 2023   URL: https://linuxforum.ru"
+msgstr ""
+
+#: tmainform.tabsheet1.caption
+msgid "Posters, fanarts, video buffer"
+msgstr ""
+
+#: tmainform.tabsheet2.caption
+msgid "YouTube plugin settings"
+msgstr ""
+
+#: unit1.sapplymsg
+msgid "Restart your Kodi..."
+msgstr ""
+
+#: unit1.skodinotinstalled
+msgid "Kodi not installed!"
+msgstr ""
+
+#: unit1.syoutubenotfound
+msgid "YouTube plugin not installed!"
+msgstr ""
+
