@@ -6,3 +6,7 @@
 **EN**
 
 A visual editor for quickly configuring Kodi settings that you most often need to change when moving from one version to another. Allows you to customize the display of posters and fanart, optimizes the buffer for streaming video and configures the API settings for the YouTube plugin without manually tampering with the configuration files.
+
+![](https://github.com/AKotov-dev/KodiSet/blob/main/ScreenShots/Screenshot1.png)
+
+![](https://github.com/AKotov-dev/KodiSet/blob/main/ScreenShots/Screenshot2.png)
