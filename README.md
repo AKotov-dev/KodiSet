@@ -9,4 +9,4 @@ A visual editor for quickly configuring Kodi settings that you most often need t
 
 ![](https://github.com/AKotov-dev/KodiSet/blob/main/ScreenShots/Screenshot1.png)
 
-![](https://github.com/AKotov-dev/KodiSet/blob/main/ScreenShots/Screenshot2.png)
+![](https://github.com/AKotov-dev/KodiSet/blob/main/ScreenShots/Screenshot3.png)
