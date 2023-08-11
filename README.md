@@ -1,0 +1,2 @@
+# KodiSet
+Some Kodi settings
