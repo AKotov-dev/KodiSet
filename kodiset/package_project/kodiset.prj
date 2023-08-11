@@ -25,7 +25,7 @@ vendor=alex_q_2000 (C) 2023
 summary=Some Kodi settings
 
 [URLCOPY]
-urlcopy=111
+urlcopy=https://github.com/AKotov-dev/KodiSet
 
 [LICENSE]
 license=GPLv3
@@ -49,7 +49,7 @@ deb=0
 3=/usr/share/doc/kodiset/
 
 [URL32]
-url32=111
+url32=https://github.com/AKotov-dev/KodiSet
 
 [PROGRAMNAME]
 programname=KodiSet
